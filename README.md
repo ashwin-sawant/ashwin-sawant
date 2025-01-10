@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# Welcome to ashwin's GitHub! Hello!
-I'm Ashwin Sawant, a beginner developer exploring the world of coding. 
+# Welcome to ashwin's GitHub! 
+Hello! I'm Ashwin Sawant, a beginner developer exploring the world of coding. 
 
 🌱 ## Learning Journey 
 I'm currently learning: 
