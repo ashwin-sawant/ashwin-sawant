@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# Welcome to ashwin's GitHub! Hello!
+I'm Ashwin Sawant, a beginner developer exploring the world of coding. 
+
+🌱 ## Learning Journey 
+I'm currently learning: 
+- Python, Javascript
+- Django, node js
 <!--
 **ashwin-sawant/ashwin-sawant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
